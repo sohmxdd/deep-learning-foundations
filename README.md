@@ -1,17 +1,19 @@
-# Deep Learning Foundations
+#  Deep Learning Foundations
 
-This repository documents my structured journey into Deep Learning, starting from first principles and progressing toward modern architectures.
+> A structured, from-scratch journey into Deep Learning — focused on understanding, not vibe coding.
 
-The focus of this repository is **conceptual clarity, from-scratch understanding, and clean implementation** — not copy-pasted solutions or shortcut-based learning.
+This repository documents my progression through deep learning fundamentals, starting from perceptrons and neural networks, and gradually moving toward modern deep learning architectures.
+
+The goal of this repo is **depth over speed** — building strong intuition, clean implementations, and clear explanations.
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 deep-learning-foundations/
 │
-├── notebooks/ # Hands-on implementations and experiments
-├── notes/ # Conceptual explanations written in my own words
+├── notebooks/ # Hands-on implementations & experiments
+├── notes/ # Conceptual explanations in my own words
 ├── experiments/ # Small tests, ideas, and explorations
 └── README.md
 
@@ -20,64 +22,59 @@ Copy code
 
 ---
 
-## Learning Philosophy
+## 📘 Learning Philosophy
 
-- Strong emphasis on fundamentals  
-- Explain concepts before writing code  
-- One concept, one clean implementation  
-- Minimal reliance on high-level abstractions early on  
-- Focus on understanding over speed  
+- 🔍 **Strong fundamentals first**
+- ✍️ **Explain before coding**
+- 🧠 **From-scratch understanding**
+- 🚫 **No vibe coding**
+- 📈 **Daily incremental progress**
 
-This repository intentionally avoids “vibe coding” and treats Deep Learning as an engineering discipline rather than a black box.
+Every concept implemented here is backed by clear reasoning and reflection.
 
 ---
 
-## Learning Source
+## 📚 Learning Source
 
 - **100 Days of Deep Learning — CampusX**
 
-The playlist is used as a structured guide, with independent reasoning, notes, and implementations added on top.
+(Used as a structured guide, not blindly followed.)
 
 ---
 
-## Topics Covered (and Planned)
+## 🛠️ What This Repo Covers
 
-- Perceptrons and decision boundaries  
-- Artificial Neural Networks (ANNs)  
-- Activation functions and loss intuition  
-- Training concepts and optimization  
-- Convolutional Neural Networks (CNNs)  
-- Sequence models (RNNs, LSTMs)  
-- Attention and Transformers  
+- Perceptrons & decision boundaries
+- Artificial Neural Networks (ANNs)
+- Activation functions & loss intuition
+- Training concepts & optimization (upcoming)
+- CNNs, RNNs, Transformers (planned)
 
 ---
 
-## How to Navigate This Repository
+## 🧪 How to Use This Repo
 
-- Start with `notes/` for conceptual understanding  
-- Refer to `notebooks/` for practical implementations  
-- Follow the commit history to track day-by-day progress  
-
-Each notebook and note reflects active learning rather than polished final projects.
+- Browse `notes/` for clean conceptual understanding
+- Explore `notebooks/` for practical implementations
+- Follow commit history to see day-by-day progress
 
 ---
 
-## Long-Term Objective
+## 🚀 Status
 
-To develop a strong, explainable understanding of Deep Learning systems and later extend this knowledge toward:
-- Real-world ML/DL applications  
-- Agentic AI systems  
-- Research-oriented projects  
+**In Progress**  
+Building foundations → scaling upward.
 
 ---
 
-## Status
+## 📌 Long-Term Goal
 
-In progress.  
-Built incrementally, one concept at a time.
+To develop a deep, explainable understanding of Deep Learning systems and later extend this knowledge to:
+- Agentic AI systems
+- Real-world ML/DL applications
+- Research-oriented projects
 
 ---
 
-## Author
-
-**Soham Mishra**  
+##  Author
+Soham Mishra
