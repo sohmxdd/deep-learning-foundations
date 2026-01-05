@@ -67,12 +67,13 @@ Building foundations → scaling upward.
 
 ---
 
-## 📌 Long-Term Goal
+## Focus
 
-To develop a deep, explainable understanding of Deep Learning systems and later extend this knowledge to:
-- Agentic AI systems
-- Real-world ML/DL applications
-- Research-oriented projects
+- Building strong deep learning fundamentals  
+- Emphasis on conceptual clarity over shortcuts  
+- From-scratch understanding of core ideas  
+- Clean, readable notebooks and notes  
+- Consistent daily progress without vibe coding
 
 ---
 
