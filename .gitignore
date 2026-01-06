@@ -1,0 +1,11 @@
+# Data files
+*.zip
+*.csv
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
