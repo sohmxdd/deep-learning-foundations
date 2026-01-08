@@ -17,8 +17,18 @@ deep-learning-foundations/
 ├── experiments/ # Small tests, ideas, and explorations
 └── README.md
 
-yaml
-Copy code
+## Current Focus
+
+At the moment, this repository focuses on building strong deep learning fundamentals
+through hands-on experiments and clear conceptual understanding.
+
+Current areas of work:
+- Implementing neural networks from scratch and using Keras/TensorFlow
+- Understanding training dynamics, overfitting, and evaluation metrics
+- Building clean, reproducible experiments (e.g., customer churn prediction using ANN)
+- Strengthening intuition behind preprocessing, scaling, and model design choices
+
+The goal is not just to build models, but to deeply understand *why* each step is required.
 
 ---
 
