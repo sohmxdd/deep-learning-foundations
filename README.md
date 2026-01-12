@@ -6,7 +6,7 @@ This repository documents my progression through deep learning fundamentals, sta
 
 The goal of this repo is depth over speed — building strong intuition, clean implementations, and clear explanations.
 
-## 📂 Repository Structure
+📂 Repository Structure
 deep-learning-foundations/
 │
 ├── notebooks/     # Hands-on implementations & experiments
