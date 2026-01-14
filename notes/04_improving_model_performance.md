@@ -49,3 +49,41 @@ It assigns slightly larger initial weights to compensate
 for ReLU units that output zero for half the inputs.
 
 Proper initialization is critical for deep networks to train effectively.
+
+## Optimization Algorithms
+
+Optimizers define how model parameters are updated using computed gradients.
+
+The choice of optimizer significantly affects convergence speed
+and training stability.
+
+### SGD with Momentum
+
+Momentum accumulates a moving average of past gradients
+to accelerate learning in consistent directions.
+
+Benefits:
+- Faster convergence
+- Reduced oscillations
+- Better navigation of ravines in the loss surface
+
+### RMSProp
+
+RMSProp adapts the learning rate for each parameter individually
+by normalizing gradients using a moving average of squared gradients.
+
+It is particularly effective for non-stationary problems.
+
+### RMSProp
+
+RMSProp adapts the learning rate for each parameter individually
+by normalizing gradients using a moving average of squared gradients.
+
+It is particularly effective for non-stationary problems.
+
+## Key Takeaways
+
+- Batch normalization stabilizes training
+- Proper weight initialization prevents gradient issues
+- Optimizers control how efficiently models learn
+- Adam is a strong default, but understanding alternatives matters
