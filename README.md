@@ -81,7 +81,7 @@ Follow the commit history to see day-by-day progress
 ## 🚀 Status
 
 In Progress
-Building foundations → scaling upward.
+Will add CNNS and RNNS along with techniques to enhance neural network training this week.
 
 ## Author
 
