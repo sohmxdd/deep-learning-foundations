@@ -81,7 +81,7 @@ Follow the commit history to see day-by-day progress
 ## 🚀 Status
 
 In Progress:
-Will add CNNS and RNNS along with techniques to enhance neural network training this week.
+ANNS and CNNS have been added, RNNS coming over the weekend with a new experiment/miniproject!
 
 ## Author
 
